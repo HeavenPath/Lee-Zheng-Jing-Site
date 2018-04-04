@@ -1,8 +1,16 @@
 <html>
-	<body style="background-color:rgb(200,160,45)">
-		<h1>Zheng Jing's Website</h1>
-		<h2>Why I picked up Web Dev:</h2>
-		<p>Web development sounded more newbie friendly and easier to learn compared to algorithms. Furthermore, I would like to learn something that I can apply in my life and see the results. Although I am not sure what algorithms is, but I am pretty sure what web development can result in considering I view websites alot daily hehexd</p>
+	<body style="background-color: lightblue">
+		<h1 style="font-family:helsinki;" style="font-size:300%;">
+    		<center>Zheng Jing's Website</center>
+    	</h1>
+		
+		<h2>
+		Why I picked up Web Dev:
+		</h2>
+
+		<p>
+			Web development sounded more newbie friendly and easier to learn compared to algorithms. Furthermore, I would like to learn something that I can apply in my life and see the results. Although I am not sure what algorithms is, but I am pretty sure what web development can result in considering I view websites alot daily hehexd
+		</p>
 
 		<h2>Emma Watson</h2>
 		<img src="https://www.biographyonline.net/wp-content/uploads/2016/01/Emma_Watson_2013.jpg">
@@ -15,9 +23,11 @@
 		<h2>Sites I Wished Were Blocked On School Wifi</h2>
 
 		<a href="http://www.hwachong.edu.sg/">hwachong website for the memes</a> 
-		<p>We need to assert our dominance and show that we are the true alpha school and that hwachong is nothing compared to us hehexd
+		<p>We need to assert our dominance and show that we are the true alpha school and that hwachong is nothing compared to us. Only if they decide to merge under us as our underling school to become hwaffles institution will we unblock this website!!!!
 		<br>
-		pls dont take this srsly its a joke :V
+		<i>pls dont take this srsly its a joke :V</i>
+		</p>
+
 
 	</body>
 </html>
