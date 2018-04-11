@@ -1,0 +1,55 @@
+h1 {
+	background-color: violet;
+	font-family: helsinki;
+	font-size: 45pt;
+}
+p {
+	font-size: 20pt;
+	font-family: euclid;
+	border: 5px solid black;
+	padding: 20px;
+	margin: 20px;
+}
+body {
+	background-color: lightblue;
+}
+img {
+	border: 5px solid gold; 
+	float: left;
+	margin: 20px;
+}
+#mywebsite {
+	background-color: violet;
+}
+#whyipickedwebdev {
+	background-color: darkred;
+	font-family:"Courier New";
+}
+#favoriteactor {
+	background-color: gold;
+	font-family:"Courier New";
+}
+#blockedsites {
+	background-color: grey;
+	font-family:"Courier New";
+	margin-top: 150px;
+}
+#firstpara {
+	border: 5px solid darkred;
+}
+#secondpara {
+	border: 5px solid gold;
+	display: inline-block;
+}
+#thirdpara {
+	border: 5px solid grey;
+}
+p:hover{
+	display: block;
+	background-color: yellow;
+}
+#link1 {
+	font-family:"Eras Demi ITC";
+	font-size: 30pt;
+	color: black;
+}
